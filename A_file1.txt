@@ -1,1 +1,2 @@
 First changes for A_file1 on branch A
+Second changes for B_file on branch A
